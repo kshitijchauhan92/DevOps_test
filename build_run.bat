@@ -1,5 +1,5 @@
 @echo off 
-set local enable delayed expantion
+set local EnableDelayedExpansion
 
 :: Default parameter
 
